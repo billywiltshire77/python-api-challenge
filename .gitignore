@@ -5,7 +5,7 @@
 
 # Adding config.py file.
 api_keys.py
-
+.ipynb_checkpoints
 
 # User-specific files
 *.rsuser
